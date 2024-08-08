@@ -1,0 +1,11 @@
+C:\Users\AB\source\repos\XOProject\bin\Debug\XOProject.exe.config
+C:\Users\AB\source\repos\XOProject\bin\Debug\XOProject.exe
+C:\Users\AB\source\repos\XOProject\bin\Debug\XOProject.pdb
+C:\Users\AB\source\repos\XOProject\obj\Debug\XOProject.csproj.AssemblyReference.cache
+C:\Users\AB\source\repos\XOProject\obj\Debug\XOProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\AB\source\repos\XOProject\obj\Debug\XOProject.frmXOGame.resources
+C:\Users\AB\source\repos\XOProject\obj\Debug\XOProject.Properties.Resources.resources
+C:\Users\AB\source\repos\XOProject\obj\Debug\XOProject.csproj.GenerateResource.cache
+C:\Users\AB\source\repos\XOProject\obj\Debug\XOProject.csproj.CoreCompileInputs.cache
+C:\Users\AB\source\repos\XOProject\obj\Debug\XOProject.exe
+C:\Users\AB\source\repos\XOProject\obj\Debug\XOProject.pdb
